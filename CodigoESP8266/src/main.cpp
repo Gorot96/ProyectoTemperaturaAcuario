@@ -11,8 +11,8 @@ boolean describe_tests = true;
 
 RestClient client = RestClient("192.168.103.186", 8080);
 
-#define STASSID "realme 6i"
-#define STAPSK  "wifi0304"
+#define STASSID "red_Wifi"
+#define STAPSK  "red_Pass"
 //declariacion de variablaes calidad agua
 #define TdsSensorPin A0
 #define VREF 3.0 // analog reference voltage(Volt) of the ADC
